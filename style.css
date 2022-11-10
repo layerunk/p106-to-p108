@@ -1,0 +1,35 @@
+
+#labody{
+    background-color: coral;
+}
+
+#display{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 70px;
+    font-weight: BOLD;
+}
+
+#notice{
+    letter-spacing: 2px;
+    font-family: 'Xanh Mono', monospace;
+}
+
+#copyrightfooter{
+    background-color: white;
+    text-align: center;
+    line-height: 2.5;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-family: 'Comic Neue', cursive;
+    font-size: 30px;
+    text-shadow: 15px;
+}
+
+#checkbtn{
+    letter-spacing: 2px;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 30px;
+    background-color: darkslategray;
+    color: white;
+}
